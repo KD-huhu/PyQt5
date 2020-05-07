@@ -1,5 +1,7 @@
 import sys
 import sizepolice_demo
+
+
 from PyQt5.QtWidgets import QApplication,QMainWindow
 
 if __name__ == '__main__':
